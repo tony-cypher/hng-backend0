@@ -11,16 +11,16 @@ The API provides the following information in JSON format:
 ### Base URL
 
 ```
-https://deployed-api.com/
+https://hng-backend0.onrender.com/
 ```
 
 ### Response Format (200 OK)
 
 ```json
 {
-  "email": "your-email@example.com",
+  "email": "tonycypher0@gmail.com",
   "current_datetime": "2025-01-30T09:30:00Z",
-  "github_url": "https://github.com/yourusername/your-repo"
+  "github_url": "https://github.com/tony-cypher/hng-backend0"
 }
 ```
 
@@ -29,8 +29,7 @@ https://deployed-api.com/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+git clone https://github.com/tony-cypher/hng-backend0.git
 ```
 
 ### 2. Install Dependencies
